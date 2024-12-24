@@ -63,14 +63,14 @@
 <p>
     <img 
       alt="GitHub Stats" 
-      height="200" 
+      height="180em" 
       style="padding-right: 10px;" 
       src="https://github-readme-stats.vercel.app/api?username=PEDRODEVARTS1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
     />
 <p>
     <img 
     alt="GitHub Stats" 
-    height="200" 
+    height="120em" 
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=PEDRODEVARTS1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 </p>

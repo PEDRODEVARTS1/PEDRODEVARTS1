@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Pedro Henrique Paiva
+# Pedro Henrique Paiva
 - 🔭 Inicio de carreira free-lance
 - 🌱 Sigo estudando Javascript
 - 🤔 Posso ajudar em projetos  HTML/CSS/JS

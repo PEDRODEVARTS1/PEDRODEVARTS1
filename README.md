@@ -1,8 +1,9 @@
 # Pedro Henrique Paiva
-- 🔭 Inicio de carreira free-lance
-- 🌱 Sigo estudando Javascript
-- 🤔 Posso ajudar em projetos  HTML/CSS/JS
-- 😄 Pronome: Ele/dele
+- 🍃 Inicio de carreira free-lance
+- 🌿 Sigo estudando Javascript
+- 🌱 Posso ajudar em projetos  HTML/CSS/JS
+- 🌾 23 anos de idade
+- 🌵 Pronome: Ele/dele
 
 **`Desenvolvedor FullStack`**
 
@@ -66,13 +67,13 @@
       alt="GitHub Stats" 
       height="180em" 
       style="padding-right: 10px;" 
-      src="https://github-readme-stats.vercel.app/api?username=PEDRODEVARTS1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br" 
+      src="https://github-readme-stats.vercel.app/api?username=PEDRODEVARTS1&show_icons=true&theme=merko&include_all_commits=true&locale=pt-br" 
     />
 <p>
     <img 
     alt="GitHub Stats" 
     height="120em" 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PEDRODEVARTS1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=PEDRODEVARTS1&theme=merko&layout=compact&custom_title=Tecnologias&langs_count=9" 
 />
 </p>
 

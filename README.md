@@ -2,8 +2,7 @@
 -  Inicio de carreira free-lance
 -  Sigo estudando Javascript
 -  Posso ajudar em projetos  HTML/CSS/JS
--  23 anos de idade
--  Pronome: Ele/dele
+-  24 anos de idade
 
 **`Desenvolvedor FullStack`**
 
